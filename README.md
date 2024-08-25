@@ -1,7 +1,6 @@
 ## Projects
 ![image](https://github.com/user-attachments/assets/3cfa433c-c8f9-488f-b308-7808daf863a4)
 ![image](https://github.com/user-attachments/assets/c62b5895-f8ae-4994-82ae-1570870bf283)
-![image](https://github.com/user-attachments/assets/b0c73fe3-32e7-4c1f-81f5-b723e49f1325)
 ![image](https://github.com/user-attachments/assets/453ac4ad-3cc4-4702-957f-d849cd85e976)
 
 ### Building a CGI-Support Multi-Threaded Web Server
